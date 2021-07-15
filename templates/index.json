@@ -2,9 +2,20 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "85109c28-55c7-422d-af7c-985175d8b2d9": {
+          "type": "heading",
+          "settings": {
+            "heading": "No More Boring Pillows"
+          }
+        }
+      },
+      "block_order": [
+        "85109c28-55c7-422d-af7c-985175d8b2d9"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/soft-livingroom-sofa.jpg",
-        "desktop_text_box_position": "center",
+        "desktop_text_box_position": "flex-start",
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
