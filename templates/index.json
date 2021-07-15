@@ -2,19 +2,8 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": {
-        "b899f4c1-7aa1-4d65-b9ca-a402be887128": {
-          "type": "heading",
-          "settings": {
-            "heading": "Give Twist To The Boring Pillows"
-          }
-        }
-      },
-      "block_order": [
-        "b899f4c1-7aa1-4d65-b9ca-a402be887128"
-      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/livingroom-rainbows.jpg",
+        "image": "shopify:\/\/shop_images\/soft-livingroom-sofa.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
