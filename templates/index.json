@@ -15,10 +15,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/livingroom-rainbows.jpg",
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-2",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": true
+        "adapt_height_first_image": false
       }
     },
     "featured_products": {
