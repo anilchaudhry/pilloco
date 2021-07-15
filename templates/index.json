@@ -3,33 +3,22 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
+        "b899f4c1-7aa1-4d65-b9ca-a402be887128": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Give Twist To The Boring Pillows"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "b899f4c1-7aa1-4d65-b9ca-a402be887128"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/livingroom-rainbows.jpg",
         "desktop_text_box_position": "flex-end",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "adapt_height_first_image": true
       }
     },
     "featured_products": {
