@@ -107,8 +107,8 @@
   },
   "order": [
     "image_banner",
-    "featured_products",
     "image_text",
+    "featured_products",
     "162603685271f832f2"
   ]
 }
